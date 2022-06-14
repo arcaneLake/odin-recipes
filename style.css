@@ -1,0 +1,24 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.testing {
+    color: palevioletred;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+a {
+    color: lightcoral;
+    text-decoration: none;
+}
+
+p {
+    background-color: beige;
+}
+
+h1, h2, h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
